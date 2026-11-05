@@ -1,0 +1,101 @@
+id,question,reference_answer,dimension,subdimension
+0,What animal is known as the 'king of the ocean'?,Blue whale.,Factuality,Natural Science
+1,What is the largest planet in the solar system?,Jupiter.,Factuality,Natural Science
+2,Which fruit is known as the 'king of fruits'?,Durian.,Factuality,Natural Science
+3,What is the smallest bird in the world?,Hummingbird.,Factuality,Natural Science
+4,What is the deepest part of the world’s oceans?,The Mariana Trench.,Factuality,Natural Science
+5,Which plant can grow without soil?,Air plant (Tillandsia).,Factuality,Natural Science
+6,What is the longest snake in the world?,Reticulated python.,Factuality,Natural Science
+7,Which bird is known for having the fastest diving speed?,Peregrine falcon.,Factuality,Natural Science
+8,Which animal has the slowest heartbeat?,Whale.,Factuality,Natural Science
+9,On which planet is gold found in the greatest abundance?,Earth.,Factuality,Natural Science
+10,What is the largest tropical rainforest in the world?,The Amazon rainforest.,Factuality,Natural Science
+11,Which bird’s eyes are larger than its brain?,Ostrich.,Factuality,Natural Science
+12,Which fish is regarded as a 'living fossil'?,"Sturgeon, coelacanth.",Factuality,Natural Science
+13,Which animals have hearts located in their heads?,"Shrimp, octopus, fruit fly.",Factuality,Natural Science
+14,Which part of the electromagnetic spectrum is most harmful to humans?,"The ultraviolet portion of the electromagnetic spectrum, because excessive exposure can cause skin cancer.",Factuality,Natural Science
+15,Which vegetable is called the 'apple of the earth'?,Potato.,Factuality,Natural Science
+16,Which animal can stop its heart from beating for hours underwater?,"Marine iguana, sea iguana.",Factuality,Natural Science
+17,What is the largest rodent in the world?,Capybara.,Factuality,Natural Science
+18,Which plant’s seeds can drift thousands of miles across the ocean without dying?,Coconut.,Factuality,Natural Science
+19,What is the world’s largest freshwater lake by volume?,Lake Baikal.,Factuality,Natural Science
+20,Which animal is known as the 'gardener of the forest'?,Elephant.,Factuality,Natural Science
+21,Which bird is known for its long legs and pink feathers?,Flamingo.,Factuality,Natural Science
+22,Which animal is known for hanging upside down on branches for hours without moving?,Sloth.,Factuality,Natural Science
+23,Which insect is known for its ability to hover?,Dragonfly.,Factuality,Natural Science
+24,Which plant is called the 'lighthouse of the sea'?,Rosemary.,Factuality,Natural Science
+25,Which animal demonstrates the origin of 'mimicked song' among the oldest songbird lineages?,Lyrebird.,Factuality,Natural Science
+26,Which plant is known for its extremely fast growth rate?,Bamboo.,Factuality,Natural Science
+27,"Among existing birds, which one has the largest wingspan?",Albatross.,Factuality,Natural Science
+28,Which country has the most lakes in the world?,Canada.,Factuality,Natural Science
+29,In which country is the famous Mount Kilimanjaro located?,Tanzania.,Factuality,Natural Science
+30,Which particle is one of the fundamental components that make up protons and neutrons?,Quark.,Factuality,Natural Science
+31,Which phenomenon describes the change in the speed of light as it passes through different media?,Refraction.,Factuality,Natural Science
+32,Which rare geological phenomenon causes rock layers to become vertical rather than the usual horizontal stratification?,Folding.,Factuality,Natural Science
+33,Which botanist developed the modern taxonomic system for plant classification?,Carl Linnaeus.,Factuality,Natural Science
+34,"Which rare geological structure is formed when lava cools during volcanic activity, creating hexagonal columnar joints?",Basalt columns.,Factuality,Natural Science
+35,Which phenomenon describes the abnormal warming of seawater that usually affects global climate and marine ecosystems?,El Niño phenomenon.,Factuality,Natural Science
+36,Which chemical process involves splitting water molecules into hydrogen and oxygen gases?,Electrolysis.,Factuality,Natural Science
+37,Which optical phenomenon causes observers to see a colored or white halo around a light source?,Halo phenomenon.,Factuality,Natural Science
+38,Which element is the only non-metal that is liquid at room temperature?,Bromine.,Factuality,Natural Science
+39,What is the largest organ in the human body?,Skin.,Factuality,Natural Science
+40,In which country was paper money first used?,China.,Factuality,Social Science
+41,In which city was the world’s first subway system built?,London.,Factuality,Social Science
+42,Which country is the largest landlocked country in the world?,Kazakhstan.,Factuality,Social Science
+43,Which is the smallest country in the world?,Vatican City.,Factuality,Social Science
+44,Which country suffered the highest number of deaths in World War II?,The former Soviet Union.,Factuality,Social Science
+45,Where is the U.S. Seventh Fleet primarily stationed?,The Western Pacific.,Factuality,Social Science
+46,Which country is considered the birthplace of coffee?,Ethiopia.,Factuality,Social Science
+47,What is the largest man-made canal in the world?,The Grand Canal of China.,Factuality,Social Science
+48,Which country is known as the 'Land of a Thousand Islands'?,Indonesia.,Factuality,Social Science
+49,Which country is the largest oil exporter in the world?,Saudi Arabia.,Factuality,Social Science
+50,Which country is called the 'Land of Gold'?,South Africa.,Factuality,Social Science
+51,Which country is known for its high-altitude city La Paz?,Bolivia.,Factuality,Social Science
+52,Which country was the birthplace of the ancient Inca civilization?,Peru.,Factuality,Social Science
+53,"Which country is known for natural wonders such as volcanoes, glaciers, waterfalls, and the aurora?",Iceland.,Factuality,Social Science
+54,Which ancient writing system was deciphered with the help of the famous Rosetta Stone?,Egyptian hieroglyphs.,Factuality,Social Science
+55,Which disease in human history is known as the 'Black Death'?,Plague.,Factuality,Social Science
+56,"Geographically, which country is considered the dividing line between Europe and Asia?",Russia.,Factuality,Social Science
+57,Which ancient civilization is known for its precise astronomical and calendar systems?,The Maya.,Factuality,Social Science
+58,Which engineering technology was first widely used by the Roman Empire to transport water?,Aqueducts.,Factuality,Social Science
+59,What is the basis for dividing world eras into BC and AD?,The birth of Jesus Christ as the dividing point.,Factuality,Social Science
+60,In which city is the famous Statue of Liberty located?,New York.,Factuality,Humanities
+61,Which flower is considered the national flower of the Netherlands?,Tulip.,Factuality,Humanities
+62,Which bridge is one of London’s famous landmarks?,Tower Bridge in London.,Factuality,Humanities
+63,Which country is the kiwi fruit originally from?,China.,Factuality,Humanities
+64,What is the national flower of Belgium?,Poppy.,Factuality,Humanities
+65,Which gemstone is known as the 'Stone of Australia'?,Opal.,Factuality,Humanities
+66,Which country is considered the birthplace of pizza?,Italy.,Factuality,Humanities
+67,Which country is known as the 'Land of the Rising Sun'?,Japan.,Factuality,Humanities
+68,In which country is the Taj Mahal located?,India.,Factuality,Humanities
+69,Which country is famous for its unique Sirtaki dance?,Greece.,Factuality,Humanities
+70,In which country is the famous Bach Festival held?,Germany.,Factuality,Humanities
+71,Which country is the birthplace of salsa dancing?,Cuba.,Factuality,Humanities
+72,Which early filmmaker is known as the 'Father of Cinema'?,D. W. Griffith.,Factuality,Humanities
+73,In which town was Shakespeare born?,Stratford.,Factuality,Humanities
+74,Which Chinese folk song melody is used in the opera *Turandot*?,'Jasmine Flower'.,Factuality,Humanities
+75,Which work is known as the 'greatest running-script calligraphy' in Chinese calligraphy?,'Lantingji Xu' (Preface to the Orchid Pavilion).,Factuality,Humanities
+76,Mexico’s traditional 'Day of the Dead' festival is associated with which ancient civilization?,The Aztec civilization.,Factuality,Humanities
+77,Who is the author of the Japanese classic *The Tale of Genji*?,Murasaki Shikibu.,Factuality,Humanities
+78,"Which philosopher coined the phrase 'I think, therefore I am'?",Descartes.,Factuality,Humanities
+79,Which city is the birthplace of the Italian Renaissance?,Florence.,Factuality,Humanities
+80,What caused the world’s first computer bug?,A moth.,Factuality,Information Technology
+81,In which country did Bluetooth technology originate?,Sweden.,Factuality,Information Technology
+82,"Which material is known for its extremely high strength and light weight, commonly used in aerospace?",Carbon fiber.,Factuality,Information Technology
+83,Which programming language was first used in the development of artificial intelligence?,LISP.,Factuality,Information Technology
+84,How many bits long is an IPv6 address?,128 bits.,Factuality,Information Technology
+85,What address is reserved in IPv4 for local loopback testing?,127.0.0.1.,Factuality,Information Technology
+86,How many layers are in the TCP/IP protocol stack?,4 layers.,Factuality,Information Technology
+87,What was the first successful application of blockchain technology?,Bitcoin.,Factuality,Information Technology
+88,Which three properties are described by the CAP theorem in distributed systems?,"Consistency, Availability, Partition Tolerance.",Factuality,Information Technology
+89,What is the purpose of the Turing Test in artificial intelligence?,To determine whether a machine can exhibit intelligence indistinguishable from a human.,Factuality,Information Technology
+90,Which complex mathematical field involves points and lines in infinite-dimensional spaces?,Topology.,Factuality,Mathematics
+91,What is the smallest integer greater than √3?,The integer is 2.,Factuality,Mathematics
+92,"If a cube has a volume of 0.002 cubic meters, how many cubic centimeters is that?",2000 cubic centimeters.,Factuality,Mathematics
+93,A square has an area of 300 square centimeters; how many square meters is that?,0.03 square meters.,Factuality,Mathematics
+94,"If an egg has a mass of 50 grams, what is its weight in newtons under standard Earth gravity?",0.49 newtons.,Factuality,Mathematics
+95,A vehicle has an initial velocity of 10 m/s and an acceleration of 2 m/s². What is its velocity after 3 seconds?,The velocity is 16 m/s.,Factuality,Mathematics
+96,"A car travels at a constant acceleration: initial velocity is 1 m/s, final velocity is 7 m/s, over 6 seconds. How far does it travel?",24 meters.,Factuality,Mathematics
+97,"Under standard conditions (0℃ or 273 K, 1.01×10^5 Pa), what is the volume (m³) of any ideal gas?",Approximately 0.0224 cubic meters.,Factuality,Mathematics
+98,"If a circle has a radius of 1 cm, what is its circumference rounded to two decimal places?",About 6.28 cm.,Factuality,Mathematics
+99,"The exponential function e^x is widely used. When x = 1, what is the function’s value rounded to two decimal places?",About 2.72.,Factuality,Mathematics
